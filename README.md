@@ -1,4 +1,4 @@
-# Código de Conducta para AlquimisTech's
+# Código de Conducta para SherpaEduTech's
 
 ## Nuestra Misión
 En QXRacademy, nos dedicamos a fomentar un ambiente de capacitación inclusivo y respetuoso para todos. Creemos en la innovación impulsada por la experiencia del usuario y nos esforzamos por resolver problemas del mundo real a través de soluciones tecnológicas innovadoras. Nos comprometemos a hacer de la participación en nuestra comunidad una experiencia libre de acoso para todos, independientemente de la edad, dimensión corporal, minusvalía visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.
